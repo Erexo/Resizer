@@ -1,0 +1,1 @@
+Simple Go application with the sole purpose to adjust the size of a group of images
